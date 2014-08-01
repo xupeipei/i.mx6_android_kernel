@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.o :=  /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/tty/serial/built-in.o drivers/tty/serial/serial_core.o drivers/tty/serial/imx.o drivers/tty/serial/mxc_uart_early.o 

@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-sony.ko := arm-eabi-ld -EL -r  -T /home/only/myandroid/kernel_imx/scripts/module-common.lds --build-id  -o drivers/hid/hid-sony.ko drivers/hid/hid-sony.o drivers/hid/hid-sony.mod.o

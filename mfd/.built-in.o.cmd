@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=  /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/mfd/built-in.o drivers/mfd/wm8994-core.o drivers/mfd/wm8994-irq.o drivers/mfd/pfuze-core.o drivers/mfd/mfd-core.o drivers/mfd/mxc-hdmi-core.o drivers/mfd/max17135-core.o 

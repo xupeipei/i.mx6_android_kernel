@@ -1,0 +1,4 @@
+kernel/drivers/leds/leds-gpio.ko
+kernel/drivers/leds/ledtrig-gpio.ko
+kernel/drivers/leds/ledtrig-default-on.ko
+kernel/drivers/leds/ledtrig-sleep.ko

@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl8188cus/8192cu.ko := arm-eabi-ld -EL -r  -T /home/only/myandroid/kernel_imx/scripts/module-common.lds --build-id  -o drivers/net/wireless/rtl8188cus/8192cu.ko drivers/net/wireless/rtl8188cus/8192cu.o drivers/net/wireless/rtl8188cus/8192cu.mod.o

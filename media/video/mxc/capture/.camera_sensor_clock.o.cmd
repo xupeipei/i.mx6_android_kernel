@@ -1,0 +1,1 @@
+cmd_drivers/media/video/mxc/capture/camera_sensor_clock.o := /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/media/video/mxc/capture/camera_sensor_clock.o drivers/media/video/mxc/capture/sensor_clock.o 

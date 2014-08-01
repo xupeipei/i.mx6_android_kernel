@@ -1,0 +1,8 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/input-polldev.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/keyboard/imx_keypad.ko
+kernel/drivers/input/misc/uinput.ko
+kernel/drivers/input/misc/isl29023.ko
+kernel/drivers/input/touchscreen/ft5x16_ts.ko

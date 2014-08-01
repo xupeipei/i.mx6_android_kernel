@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-monterey.ko := arm-eabi-ld -EL -r  -T /home/only/myandroid/kernel_imx/scripts/module-common.lds --build-id  -o drivers/hid/hid-monterey.ko drivers/hid/hid-monterey.o drivers/hid/hid-monterey.mod.o

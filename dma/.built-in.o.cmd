@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.o :=  /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/dma/built-in.o drivers/dma/dmaengine.o drivers/dma/pxp/built-in.o drivers/dma/imx-sdma.o 

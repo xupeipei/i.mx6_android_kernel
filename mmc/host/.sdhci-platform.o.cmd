@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/sdhci-platform.o := /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/mmc/host/sdhci-platform.o drivers/mmc/host/sdhci-pltfm.o drivers/mmc/host/sdhci-esdhc-imx.o 

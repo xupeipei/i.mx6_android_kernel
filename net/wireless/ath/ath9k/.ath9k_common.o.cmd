@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath9k/ath9k_common.o := /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/net/wireless/ath/ath9k/ath9k_common.o drivers/net/wireless/ath/ath9k/common.o 

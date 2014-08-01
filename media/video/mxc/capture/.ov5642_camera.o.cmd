@@ -1,0 +1,1 @@
+cmd_drivers/media/video/mxc/capture/ov5642_camera.o := /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/media/video/mxc/capture/ov5642_camera.o drivers/media/video/mxc/capture/ov5642.o 

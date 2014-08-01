@@ -1,0 +1,3 @@
+kernel/drivers/hwmon/hwmon.ko
+kernel/drivers/hwmon/mag3110.ko
+kernel/drivers/hwmon/mxc_mma8451.ko

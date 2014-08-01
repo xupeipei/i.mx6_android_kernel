@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/built-in.o :=  /home/only/myandroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/net/wireless/ath/built-in.o drivers/net/wireless/ath/ath9k/built-in.o drivers/net/wireless/ath/carl9170/built-in.o drivers/net/wireless/ath/ath.o 
